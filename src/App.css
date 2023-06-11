@@ -5,6 +5,7 @@
 
  /* setando a tipografia diretamente no css global usando variavels */
 body{
+    padding-top: 4rem;
     margin: 0px;
     color: #333;
     --type-first: Helvetica,Arial,sans-serif;
